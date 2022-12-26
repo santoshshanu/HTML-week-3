@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>es relative unit</title>
+</head>
+<body>
+    <h1>this is main heading</h1>
+    <div class="box1">
+        <h1>this is inside box 1 </h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a felis at nulla tincidunt accumsan sit amet faucibus sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris euismod pharetra arcu nec semper. Nam ut est in ipsum rutrum pretium at ac odio. Aenean ut lacus ipsum. Aliquam facilisis nunc justo, at mattis ex ullamcorper sed. Curabitur libero odio, laoreet non efficitur vel, suscipit ac purus. Nunc eu rutrum tortor. In tincidunt quam faucibus nibh pulvinar, nec ultricies massa dignissim. Vivamus a faucibus metus. Integer dignissim nibh id ligula vestibulum, vitae molestie diam feugiat. Suspendisse mauris dolor, posuere quis vehicula sit amet, suscipit non nunc. Nulla vel lobortis dolor.</p>
+
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+h1{
+    font-size: 2em;
+    border: 2em solid black;
+    padding: 3em;
+}
+
+.box1{
+    font-size: 20px;
+}
+

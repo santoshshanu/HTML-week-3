@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Pseudo Classes</title>
+</head>
+<body>
+    <a href="https://youtube.co.in">YouTube India</a>
+    <a href="https://youtube.co.uk">YouTube UK</a>
+</body>
+</html>
+
+
+
+
+
+/* link, visited, hover, active  */
+
+a:link{
+    color: orange;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: black;
+}

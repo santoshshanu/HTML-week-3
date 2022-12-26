@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet nulla tortor. Donec accumsan hendrerit orci eu rhoncus. Maecenas quis euismod est, eu pharetra lacus. Morbi felis odio, varius in elit vel, rhoncus rhoncus odio. Sed porttitor dignissim risus non laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque at accumsan eros.
+
+        Pellentesque pretium, risus a condimentum ultrices, tortor elit mattis tellus, ac ullamcorper lectus nulla vitae justo. Ut massa metus, pretium nec lacinia vitae, sollicitudin ut tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac pellentesque lectus. Sed condimentum sapien posuere libero consequat, pretium mollis elit gravida. Nullam non nunc a neque egestas rutrum at dignissim ante. Pellentesque dui nisi, porttitor laoreet rhoncus at, consectetur eget leo. Sed condimentum turpis magna, ut cursus quam eleifend vel. Aenean ullamcorper non sem vel facilisis. Phasellus at eleifend nibh, ac gravida elit. In et placerat mi, sit amet elementum diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce elementum semper dui vitae egestas. Aliquam sagittis pretium eros, a varius dui placerat eget. Ut iaculis lacus id condimentum molestie. Suspendisse potenti.</p>
+</body>
+</html>
+
+
+
+
+
+
+p{
+    font-family: 'Poppins', sans-serif;;
+    font-weight: 300;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}

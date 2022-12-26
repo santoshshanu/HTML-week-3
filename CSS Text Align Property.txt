@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <a href="#"> My Website</a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+h1{
+    background: lightblue;
+    /* text-align: center; */
+    width: 500px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+a{
+    display: inline-block;
+    width: 500px;
+    background: lightcoral;
+    text-align: center;
+    text-align: right;
+}

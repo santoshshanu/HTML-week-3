@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>VIEWPORT UNITS</title>
+</head>
+<body>
+    <div class="box"></div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non rutrum tortor. Suspendisse nulla quam, euismod in commodo eu, aliquet sed libero. Nam sed elit convallis, venenatis odio a, scelerisque nisi. Etiam venenatis convallis tortor in sollicitudin. Curabitur pretium dui nisl. Donec vitae enim urna. Nunc sed ante commodo, bibendum ex ac, imperdiet mi. Fusce id condimentum arcu, ac sollicitudin urna. Sed vel blandit quam.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+.box{
+    height: 100vmax;
+    background-color: aqua;
+}
+
+
+
+

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet nulla tortor. Donec accumsan hendrerit orci eu rhoncus. Maecenas quis euismod est, eu pharetra lacus. Morbi felis odio, varius in elit vel, rhoncus rhoncus odio. Sed porttitor dignissim risus non laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque at accumsan eros.
+
+        Pellentesque pretium, risus a condimentum ultrices, tortor elit mattis tellus, ac ullamcorper lectus nulla vitae justo. Ut massa metus, pretium nec lacinia vitae, sollicitudin ut tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac pellentesque lectus. Sed condimentum sapien posuere libero consequat, pretium mollis elit gravida. Nullam non nunc a neque egestas rutrum at dignissim ante. Pellentesque dui nisi, porttitor laoreet rhoncus at, consectetur eget leo. Sed condimentum turpis magna, ut cursus quam eleifend vel. Aenean ullamcorper non sem vel facilisis. Phasellus at eleifend nibh, ac gravida elit. In et placerat mi, sit amet elementum diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce elementum semper dui vitae egestas. Aliquam sagittis pretium eros, a varius dui placerat eget. Ut iaculis lacus id condimentum molestie. Suspendisse potenti.</p>
+    
+</body>
+</html>
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 10px;
+}
+p{
+    margin: 8px;
+    padding: 20px;
+}

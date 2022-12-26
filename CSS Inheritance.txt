@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <a href="#">My Website</a>
+    <h1>Main Heading Inside body </h1>
+    <div class="container1">
+        <h2>Inside My Container One !! </h2>
+        <p>Paragraph inside my container one !!</p>
+    </div>
+
+    <div class="container2">
+        <h2>Inside My Container Two !! </h2>
+        <p>Paragraph inside my container Two !!</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+body{
+    color: red;
+}
+
+.container1{
+    color: green;
+}
+
+.container2{
+    color: blue;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+}

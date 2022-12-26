@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>CSS REM UNIT</title>
+</head>
+<body>
+    <div>
+        <p class='text-content'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a felis at nulla tincidunt accumsan sit amet faucibus sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris euismod pharetra arcu nec semper. Nam ut est in ipsum rutrum pretium at ac odio. Aenean ut lacus ipsum. Aliquam facilisis nunc justo, at mattis ex ullamcorper sed. Curabitur libero odio, laoreet non efficitur vel, suscipit ac purus. Nunc eu rutrum tortor. In tincidunt quam faucibus nibh pulvinar, nec ultricies massa dignissim. Vivamus a faucibus metus. Integer dignissim nibh id ligula vestibulum, vitae molestie diam feugiat. Suspendisse mauris dolor, posuere quis vehicula sit amet, suscipit non nunc. Nulla vel lobortis dolor.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a felis at nulla tincidunt accumsan sit amet faucibus sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris euismod pharetra arcu nec semper. Nam ut est in ipsum rutrum pretium at ac odio. Aenean ut lacus ipsum. Aliquam facilisis nunc justo, at mattis ex ullamcorper sed. Curabitur libero odio, laoreet non efficitur vel, suscipit ac purus. Nunc eu rutrum tortor. In tincidunt quam faucibus nibh pulvinar, nec ultricies massa dignissim. Vivamus a faucibus metus. Integer dignissim nibh id ligula vestibulum, vitae molestie diam feugiat. Suspendisse mauris dolor, posuere quis vehicula sit amet, suscipit non nunc. Nulla vel lobortis dolor.</p>
+
+    </div>
+    
+
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;
+    /* 16px --> 100% */
+    /* 10 --> 100/16*10 */
+}
+/* :root{
+    font-size: 10px;
+} */
+
+.box1{
+    font-size: 2rem;
+}
+.text-content{
+    font-size: 3rem;
+    border: 1rem solid red;
+    margin: 0.5rem;
+    padding: 4.5rem;
+}

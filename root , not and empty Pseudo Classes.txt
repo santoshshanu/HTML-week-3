@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My heading</h1>
+    <div></div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div></div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+/* body :not(.fancy){
+    color: blue;
+    background-color: #ddd;
+} */
+
+/* div:empty{
+    background: #222;
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+} */
+/* :root{
+    background: red;
+    color: white;
+} */
+
+/* html{
+    background: #333;
+    color: #eee;
+} */
+body{
+    background: #222;
+    color: #eee;
+}
